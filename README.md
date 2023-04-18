@@ -57,9 +57,3 @@ Passman is a password manager built with the MERN (MongoDB, Express, React, Node
 # Security
 
 Passman uses the RSA algorithm for password encryption and decryption. User passwords are encrypted before storing them in the database and are decrypted when accessed by authorized users. The application also uses Passport.js for authentication, which ensures that only authorized users can access the password manager. JWT tokens are used to authenticate users and authorize their access to the password manager.
-
-## Team Members
-
-1. Harshith Mente | 2021IMT-063
-2. Ponnolu Yushmanth Pali Reddy | 2021IMT-075
-3. Avijeet Jain | 2021IMG-018
